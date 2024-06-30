@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Adreyko
-- 👀 I’m interested in meeting with Messi 
-- 🌱 I’m currently learning JS AND TS.
+- 🌱 I’m currently working with JS AND TS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
